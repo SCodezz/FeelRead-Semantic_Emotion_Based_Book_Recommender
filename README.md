@@ -2,7 +2,7 @@
 
 
 
-````markdown
+
 # 📚 FeelRead: Semantic & Emotion-Aware Book Recommender
 
 An interactive book recommendation system that understands your emotions and query intent to suggest meaningful reads. FeelRead uses semantic search and emotion tone filtering to personalize book recommendations. Built using Hugging Face Transformers, ChromaDB, and Gradio.
@@ -121,8 +121,4 @@ license: apache-2.0
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 ```
 
----
 
-✅ You can place the last YAML block in a separate file called `README.md` if you're pushing to Hugging Face, or add it to `.gitattributes` if needed.
-
-Let me know if you'd like badges, GitHub Actions, or deployment notes added!
