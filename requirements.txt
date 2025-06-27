@@ -1,0 +1,12 @@
+gradio
+pandas
+numpy
+python-dotenv
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+chromadb
+
+
